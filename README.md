@@ -1,0 +1,2 @@
+# mashjs
+a JavaScript library
